@@ -1,0 +1,136 @@
+.topIconDiv{
+    background-color: white;
+    height: 80px;
+}
+.logoTop{
+    height: 250px;
+    margin-top: -85px;
+}
+.textDiv{
+    margin-top: 100px;
+    margin-left: 130px;
+}
+.evR{
+    font-size: 2.25rem;
+}
+.evR2{
+    font-size: 1.5625rem;
+    width: 790px;
+}
+.interviewDiv{
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+}
+.descRDiv{
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+}
+.descRDiv2{
+    justify-content: center;
+    display: flex;
+}
+.descR{
+    font-size: 1rem;
+    width: 700px;
+}
+.leftP{
+    margin-left: 130px;
+    margin-top: 100px;
+}
+.leftP2{
+    margin-left: 95px;
+    margin-top: 30px; 
+}
+.imgLeft1{
+    width: 632px;
+    height: 297px;
+}
+.imgLeft2{
+    width: 632px;
+    height: 297px;
+    margin-left: 35px;
+}
+.danceGif2{
+    width: 632px;
+    height: 623px;
+    margin-top: -624px;
+    margin-left: 790px;
+}
+.evR3{
+    font-size: 2.15rem;
+    margin-left: 130px;
+    font-weight: bold;
+    width: 1340px;
+    margin-top: 100px;
+}
+.wOfInsp{
+    font-size: 1.5625rem;
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+}
+.logoBottom{
+    width: 153px;
+}
+.logoBottomDiv{
+    justify-content: center;
+    display: flex;
+}
+.bottomIMG{
+    margin-top: 50px;
+    margin-left: -140px;
+}
+.bottomBlueDiv{
+    background-color: #0058a3;
+    height: 250px;
+}
+.textLine{
+    justify-content: space-between;
+    display: flex;
+    font-size: 1.7625rem;
+    color: white;
+    width: 1100px;
+    margin-left: 175px;
+}
+.textLine a{
+    margin-top: 75px;
+    color: white;
+}
+.textLine p{
+    margin-top: 75px;
+    color: white;
+}
+.bottomTexts{
+    justify-content: space-around;
+    display: flex;
+    width: 1575px;
+    margin-left: -60px;
+    margin-top: 65px;
+    font-size: 1.0625rem;
+}
+.textsBottom{
+    color: white;
+}
+.bottomTextsLeft{
+    display: flex;
+    width: 400px;
+}
+.bottomTextsLeft a{
+    color: white;
+}
+.textsBottomCenter{
+    color: #e4e2df;
+    margin-left: 35px;
+}
+.bottomTextsRight{
+    margin-left: 250px;
+}
+.bottomTextsRight a{
+    color: white;
+}
+.symbol2{
+    color: rgb(209, 209, 255);
+    margin-left: 25px;
+}

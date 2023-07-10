@@ -1,0 +1,168 @@
+.body1{
+    background-color: black;
+}
+.topIconDiv{
+    background-color: white;
+    height: 80px;
+}
+.logoTop{
+    height: 250px;
+    margin-top: -85px;
+}
+.jihazFestivalGifDiv{
+    margin-left: 100px;
+}
+.jihazFestivalGif{
+    width: 696px;
+    height: 755px;
+}
+.topFestivalDiv{
+    display: flex;
+}
+.jihazFestivalDivLeft{
+    margin-left: 50px;
+    margin-top: 120px;
+}
+.jihazFestivalText{
+    font-size: 5.375rem;
+    color: white;
+}
+.jihazFestivalText2{
+    margin-top: -65px;
+    font-size: 5.375rem;
+    color: white;
+}
+.jihazFestivalDesc{
+    font-size: 1.5625rem;
+    width: 510px;
+    color: white;
+}
+.jihazFestivalDesc2{
+    font-size: 1rem;
+    width: 400px;
+    color: white;
+}
+.centerFestivalDiv{
+    margin-left: 50px;
+    margin-top: 120px;
+}
+.jh{
+    justify-content: center;
+    display: flex;
+}
+.jihazFestivalDesc3{
+    font-size: 2.25rem;
+    color: white;
+    width: 1200px;
+}
+.jihazFestivalDesc4{
+    font-size: 1rem;
+    width: 1340px;
+    color: white;
+}
+.twoDivs{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 80px;
+}
+.wDiv{
+    width: 600px;
+    height: 728px;
+}
+.liveShopping{
+    font-size: 4.5rem;
+    color: white;
+    justify-content: center;
+}
+.liveShopping2{
+    font-size: 4.5rem;
+    color: white;
+    margin-top: -40px;
+}
+.qDiv{
+    margin-left: 25px;
+}
+.q{
+    width: 600px;
+    height: 728px;   
+}
+.cyp{
+    margin-top: 80px;
+}
+.jihazFestivalDesc5{
+    font-size: 2.2rem;
+    color: white;
+}
+.wOfInsp{
+    font-size: 1.5625rem;
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+    color: white;
+}
+.logoBottom{
+    width: 153px;
+}
+.logoBottomDiv{
+    justify-content: center;
+    display: flex;
+}
+.bottomIMG{
+    margin-top: 50px;
+    margin-left: -140px;
+}
+.bottomBlueDiv{
+    background-color: #ffffff;
+    height: 250px;
+}
+.textLine{
+    justify-content: space-between;
+    display: flex;
+    font-size: 1.7625rem;
+    color: rgb(0, 0, 0);
+    width: 1100px;
+    margin-left: 175px;
+}
+.textLine a{
+    margin-top: 75px;
+    color: rgb(0, 0, 0);
+}
+.textLine p{
+    margin-top: 75px;
+    color: rgb(0, 0, 0);
+}
+.bottomTexts{
+    justify-content: space-around;
+    display: flex;
+    width: 1575px;
+    margin-left: -60px;
+    margin-top: 65px;
+    font-size: 1.0625rem;
+}
+.textsBottom{
+    color: rgb(0, 0, 0);
+}
+.bottomTextsLeft{
+    display: flex;
+    width: 400px;
+}
+.bottomTextsLeft a{
+    color: rgb(0, 0, 0);
+}
+.textsBottomCenter{
+    color: rgb(0, 0, 0);
+    margin-left: 35px;
+}
+.bottomTextsRight{
+    margin-left: 250px;
+}
+.bottomTextsRight a{
+    color: rgb(0, 0, 0);
+}
+.symbol2{
+    color: rgb(48, 48, 48);
+    margin-left: 25px;
+}
+.t1{
+    margin-top: 150px;
+}

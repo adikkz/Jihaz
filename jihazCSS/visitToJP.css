@@ -1,0 +1,458 @@
+.body1{
+    background-color: #ffffff;
+}
+.topIconDiv{
+    background-color: white;
+    height: 80px;
+}
+.logoTop{
+    height: 250px;
+    margin-top: -85px;
+}
+.bigInJP{
+    background-color: #005aa6;
+    height: 1592px;
+}
+.bigInJPStrong{
+    margin-top: 110px;   
+}
+.bigInJPText{
+    font-size: 6.375rem;
+    color: white;
+    justify-content: center;
+    display: flex;
+}
+.bgJPDiv2{
+    justify-content: center;
+    display: flex;
+}
+.bigInJPText2{
+    height: 140px;
+    width: 1095px;
+    font-size: 1.5625rem;
+    color: white;
+    margin-top: 25px;
+}
+.map1{
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+    
+}
+.mapIMG{
+    width: 950px;
+}
+.facts1{
+    transform: rotateY(180deg);
+    width: 250px;
+}
+.facts1 img{
+    margin-left: -100px;
+}
+.facts2{
+    width: 250px;
+}
+.facts2 img{
+    margin-left: -100px;
+}
+.comments1{
+    margin-left: 165px;
+    margin-top: -920px;
+    position: relative;
+}
+.comment1{
+    font-size: 2.1rem;
+}
+.comment2{
+    margin-top: -15px;
+    margin-left: 5px;
+}
+.comments2{
+    margin-left: 120px;
+    margin-top: 160px;
+    position: relative;
+}
+.comment11{
+    font-size: 2.1rem;
+}
+.comment22{
+    margin-top: -15px;
+    margin-left: 5px;
+    width: 250px;
+}
+.comments3{
+    margin-left: 1155px;
+    margin-top: -350px;
+    position: relative;
+}
+.comment12{
+    font-size: 2.1rem;
+}
+.comment23{
+    margin-top: -15px;
+    margin-left: 5px;
+    width: 250px;
+}
+.comments4{
+    margin-left: 1155px;
+    margin-top: 170px;
+    position: relative;
+}
+.comment13{
+    font-size: 2.1rem;
+}
+.comment24{
+    margin-top: -15px;
+    margin-left: 5px;
+    width: 250px;
+}
+.comments5{
+    margin-left: 1155px;
+    margin-top: 180px;
+    position: relative;
+}
+.comment14{
+    font-size: 2.1rem;
+}
+.comment25{
+    margin-top: -15px;
+    margin-left: 5px;
+    width: 250px;
+}
+.foodFacts{
+    background-color: white;
+    height: 1520px;
+}
+.imgOfRamen{
+    justify-content: center;
+    display: flex;
+}
+.ramen{
+    width: 200px;
+    margin-top: 97px;
+}
+.foodFactsText{
+    margin-left: 250px;
+}
+.letsEat{
+    font-size: 3.5em;
+    margin-top: -30px;
+}
+.eatDtn{
+    margin-top: -15px;
+    font-size: 1.5625rem;
+    width: 880px;
+}
+.imagesOfFoods{
+    margin-top: 100px;
+    width: 400px;
+    margin-left: 55px;
+}
+.imgOfFoods1{
+    background-color: #e7873c;
+    width: 460px;
+    border-radius: 10px;
+}
+.imgOfFoods2{
+    background-color: #005aa6;
+    width: 460px;
+    border-radius: 10px;
+    margin-left: 25px;
+}
+.imgOfFoods3{
+    background-color: #2ba858;
+    width: 460px;
+    border-radius: 10px;
+    margin-left: -45px;
+    margin-top: -75px;
+}
+.imgOfFoods4{
+    background-color: #ffe74a;
+    width: 460px;
+    border-radius: 10px;
+    margin-left: -20px;
+    margin-top: -75px;
+}
+.imgOfFoods5{
+    background-color: #db4e8a;
+    width: 460px;
+    height: 965px;
+    border-radius: 10px;
+    margin-left: -25px;
+}
+.iOfFoods1{
+    display: flex;
+}
+.iOfFoods2{
+    margin-top: -505px;
+    display: flex;
+    margin-left: 45px;
+}
+.imagesOfFoodsBig{
+    margin-top: 100px;
+    width: 460px;
+    margin-left: 125px;
+}
+.foodFacts2{
+    height: 920px;
+}
+.dfEO{
+    font-size: 2.25rem;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.dfEODescription{
+    font-size: 1.25rem;
+    width: 830px;
+    margin-left: 100px;
+}
+.dfEOCards{
+    margin-top: 50px;
+    display: flex;
+}
+.dFEODiv{
+    width: 300px;
+    margin-left: 100px;
+}
+.dFEODiv1{
+    margin-left: 25px;
+}
+.dfEOText{
+    width: 300px;
+    margin-top: 25px;
+    font-size: 1.05rem;
+}
+.dfEOImg{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.dfEOImg1{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+.whatsinthebagdiv{
+    background-color: #ffe62b;
+    height: 2080px;
+}
+.clockImgDiv{
+    justify-content: center;
+    display: flex;
+}
+.clockImg{
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+}
+.foodFactsText2{
+    margin-left: 250px;
+}
+.letsEat2{
+    font-size: 3.5em;
+    margin-top: -30px;
+}
+.eatDtn2{
+    margin-top: -15px;
+    font-size: 1.5625rem;
+    width: 880px;
+}
+.rashultDiv{
+    margin-left: 100px;
+    margin-top: 200px;
+    display: flex;
+}
+.rashultText{
+    font-size: 1.25rem;
+    width: 360px;
+}
+.rashultImg{
+    width: 727px;
+    height: 403px;
+    border-radius: 10px;
+    margin-left: 100px;
+    margin-top: -100px;
+}
+.cookiesDiv{
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+}
+.count1{
+    font-size: 2.25rem;
+    margin-top: 65px;
+    margin-left: 15px;
+}
+.cookiesImg{
+    width: 188px;
+    height: 188px;
+    transform: rotate(345deg);
+}
+.cookiesDiv2{
+    justify-content: center;
+    display: flex;
+    margin-top: -75px;
+}
+.count2{
+    font-size: 2.25rem;
+    margin-top: 65px;
+}
+.cookiesImg2{
+    width: 188px;
+    height: 188px;
+    transform: rotate(15deg);
+    margin-left: 15px;
+}
+.cookiesDiv3{
+    justify-content: center;
+    display: flex;
+    margin-top: -75px;
+}
+.count3{
+    font-size: 2.25rem;
+    margin-top: 65px;
+    margin-left: 15px;
+}
+.cookiesImg3{
+    width: 188px;
+    height: 188px;
+    transform: rotate(345deg);
+}
+.bagImgDiv{
+    justify-content: center;
+    display: flex;
+}
+.bagImg{
+    width: 375px;
+    height: 186px;
+}
+.favoursText{
+    font-size: 2.25rem;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+.favoursDescription{
+    font-size: 1.25rem;
+    width: 830px;
+    margin-left: 100px;
+}
+.homeDiv{
+    background-color: white;
+    height: 750px;
+}
+.clockImgDiv{
+    justify-content: center;
+    display: flex;
+}
+.clockImg{
+    width: 200px;
+    height: 200px;
+    margin-top: 100px;
+}
+.foodFactsText2{
+    margin-left: 250px;
+}
+.letsEat2{
+    font-size: 3.5em;
+    margin-top: -30px;
+}
+.eatDtn2{
+    margin-top: -15px;
+    font-size: 1.5625rem;
+    width: 880px;
+}
+.followDiv{
+    background-color: #ffe62b;
+    height: 200px;
+    justify-content: start;
+    display: flex;
+}
+.followTextDiv{
+    margin-top: 75px;
+    margin-left: 250px;
+}
+.followText1{
+    font-size: 2.25rem;
+}
+.followText2{
+    margin-top: -15px;
+}
+.appsIconsDiv{
+    justify-content: space-between;
+    display: flex;
+    width: 500px;
+    margin-top: 95px;
+    margin-left: 65px;
+}
+.appsIcon{
+    width: 36px;
+    height: 36px;
+}
+.wOfInsp{
+    font-size: 1.5625rem;
+    justify-content: center;
+    display: flex;
+}
+.logoBottom{
+    width: 153px;
+}
+.logoBottomDiv{
+    justify-content: center;
+    display: flex;
+}
+.bottomIMG{
+    margin-top: 50px;
+    margin-left: -140px;
+}
+.bottomBlueDiv{
+    background-color: #0058a3;
+    height: 250px;
+}
+.textLine{
+    justify-content: space-between;
+    display: flex;
+    font-size: 1.7625rem;
+    color: white;
+    width: 1100px;
+    margin-left: 175px;
+}
+.textLine a{
+    margin-top: 75px;
+    color: white;
+}
+.textLine p{
+    margin-top: 75px;
+    color: white;
+}
+.bottomTexts{
+    justify-content: space-around;
+    display: flex;
+    width: 1575px;
+    margin-left: -60px;
+    margin-top: 65px;
+    font-size: 1.0625rem;
+}
+.textsBottom{
+    color: white;
+}
+.bottomTextsLeft{
+    display: flex;
+    width: 400px;
+}
+.bottomTextsLeft a{
+    color: white;
+}
+.textsBottomCenter{
+    color: #e4e2df;
+    margin-left: 35px;
+}
+.bottomTextsRight{
+    margin-left: 250px;
+}
+.bottomTextsRight a{
+    color: white;
+}
+.symbol2{
+    color: rgb(209, 209, 255);
+    margin-left: 25px;
+}

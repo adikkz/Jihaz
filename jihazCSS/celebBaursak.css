@@ -1,0 +1,212 @@
+.topIconDiv{
+    background-color: white;
+    height: 80px;
+    margin-left: 10px;
+}
+.logoTop{
+    height: 250px;
+    margin-top: -85px;
+}
+.baursakImgDiv{
+    justify-content: center;
+    display: flex;
+}
+.baursakImg{
+    width: 1392px;    
+    height: 634px;
+}
+.baursakImg2{
+    width: 1392px;    
+    height: 634px;
+    margin-top: 150px;
+}
+.baursakDescDiv{
+    position: relative;
+    margin-top: -250px;
+    margin-left: 200px;
+}
+.baursakDesc{
+    font-size: 4.5rem;
+    color: white;
+}
+.baursakDesc2{
+    font-size: 4.5rem;
+    color: white;
+    margin-top: -50px;
+}
+.baursakPDiv{
+    margin-top: 200px;
+    justify-content: center;
+    display: flex;
+}
+.baursakPDiv2{
+    justify-content: center;
+    display: flex;
+}
+.baursakP{
+    font-size: 1.5625rem;
+    width: 650px;
+}
+.baursakPDesc{
+    font-size: 1rem;
+    width: 650px;
+}
+.baursakRecipeDiv{
+    margin-left: 200px;
+    margin-top: -200px;
+    position: relative;
+}
+.baursakRecipeDiv33{
+    margin-top: 15px;
+}
+.baursakRecipeDiv3{
+    display: flex;
+    margin-top: -25px;
+}
+.baursakRecipe{
+    color: rgb(255, 255, 255);
+    font-size: 4.25rem;
+}
+.baursakRecipe2{
+    font-size: 2.3rem;
+    color: white;
+    display: flex;
+}
+.baursakRecipe3{
+    font-size: 2.3rem;
+    color: white;
+    display: flex;
+    margin-left: 25px;
+}
+.baursakRecipe4{
+    font-size: 2.3rem;
+    color: white;
+    display: flex;
+    margin-left: 115px;
+}
+.ingredientsDiv{
+    border: 1px solid black;
+    width: 420px;
+    height: 300px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.ingredientsDiv p{
+    margin-left: 35px;
+}
+.ingredientsP{
+    font-size: 2.25rem;
+    margin-top: 25px;
+}
+.ingredients{
+    font-size: 1rem;
+}
+.ingredients2{
+    font-size: 1rem;
+    margin-top: -10px;
+}
+.recipesDiv{
+    display: flex;
+}
+.rightRecipesDiv{
+    margin-left: 110px;
+    margin-top: 100px;
+}
+.ol1{
+    margin-left: -15px;
+    font-weight: bold;
+}
+.li1{
+    width: 700px;
+}
+.pLi1{
+    font-weight: normal;
+}
+.quoteDiv{
+    background-color: #84654b;
+    margin-top: 150px;
+    height: 500px;
+    justify-content: center;
+    display: flex;
+}
+.quote{
+    font-size: 2.25rem;
+    color: white;
+    margin-top: 200px;
+    width: 600px;
+}
+.quoteImg{
+    width: 403px;
+    height: 403px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.wOfInsp{
+    font-size: 1.5625rem;
+    justify-content: center;
+    display: flex;
+    margin-top: 200px;
+}
+.logoBottom{
+    width: 153px;
+}
+.logoBottomDiv{
+    justify-content: center;
+    display: flex;
+}
+.bottomIMG{
+    margin-top: 50px;
+    margin-left: -140px;
+}
+.bottomBlueDiv{
+    background-color: #0058a3;
+    height: 250px;
+}
+.textLine{
+    justify-content: space-between;
+    display: flex;
+    font-size: 1.7625rem;
+    color: white;
+    width: 1100px;
+    margin-left: 175px;
+}
+.textLine a{
+    margin-top: 75px;
+    color: white;
+}
+.textLine p{
+    margin-top: 75px;
+    color: white;
+}
+.bottomTexts{
+    justify-content: space-around;
+    display: flex;
+    width: 1575px;
+    margin-left: -60px;
+    margin-top: 65px;
+    font-size: 1.0625rem;
+}
+.textsBottom{
+    color: white;
+}
+.bottomTextsLeft{
+    display: flex;
+    width: 400px;
+}
+.bottomTextsLeft a{
+    color: white;
+}
+.textsBottomCenter{
+    color: #e4e2df;
+    margin-left: 35px;
+}
+.bottomTextsRight{
+    margin-left: 250px;
+}
+.bottomTextsRight a{
+    color: white;
+}
+.symbol2{
+    color: rgb(209, 209, 255);
+    margin-left: 25px;
+}

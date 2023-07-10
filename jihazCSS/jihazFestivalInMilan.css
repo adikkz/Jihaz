@@ -1,0 +1,137 @@
+.topIconDiv{
+    background-color: white;
+    height: 80px;
+}
+.logoTop{
+    height: 250px;
+    margin-top: -85px;
+}
+.jihazFestivalDiv{
+    background-color: #ffdb00;
+    height: 1859px;
+}
+.jTextsdiv{
+    margin-left: 200px;
+    padding-top: 100px;
+}
+.jP{
+    font-size: 4.5rem;
+}
+.jP2{
+    margin-top: -50px;
+    font-size: 4.5rem;
+}
+.jPDesc{
+    font-size: 1.25rem;
+    width: 430px;
+}
+.youtube-iframe-holder{
+    margin-top: 75px;
+}
+.cardsDivMain{
+    height: 600px;
+    margin-left: 85px;
+    margin-top: 100px;
+    display: flex;
+}
+.cardsDiv1{
+    background-color: #ffdb00;
+    width: 340px;
+}
+.cardsDiv2{
+    background-color: #69b3e7;
+    width: 340px;
+}
+.cardsDiv3{
+    background-color: #f57eb6;
+    width: 340px;
+}
+.cardsDiv4{
+    background-color: #ff8f1c;
+    width: 340px;
+}
+.imgD{
+    width: 312px;
+    height: 175px;
+    margin-top: 25px;
+    margin: 14px;
+}
+.days{
+    font-size: 1.5625rem;
+    margin-top: 15px;
+    margin: 14px;
+
+}
+.daysD{
+    width: 312px;
+    margin: 14px;
+}
+.wOfInsp{
+    font-size: 1.5625rem;
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+}
+.logoBottom{
+    width: 153px;
+}
+.logoBottomDiv{
+    justify-content: center;
+    display: flex;
+}
+.bottomIMG{
+    margin-top: 50px;
+    margin-left: -140px;
+}
+.bottomBlueDiv{
+    background-color: #0058a3;
+    height: 250px;
+}
+.textLine{
+    justify-content: space-between;
+    display: flex;
+    font-size: 1.7625rem;
+    color: white;
+    width: 1100px;
+    margin-left: 175px;
+}
+.textLine a{
+    margin-top: 75px;
+    color: white;
+}
+.textLine p{
+    margin-top: 75px;
+    color: white;
+}
+.bottomTexts{
+    justify-content: space-around;
+    display: flex;
+    width: 1575px;
+    margin-left: -60px;
+    margin-top: 65px;
+    font-size: 1.0625rem;
+}
+.textsBottom{
+    color: white;
+}
+.bottomTextsLeft{
+    display: flex;
+    width: 400px;
+}
+.bottomTextsLeft a{
+    color: white;
+}
+.textsBottomCenter{
+    color: #e4e2df;
+    margin-left: 35px;
+}
+.bottomTextsRight{
+    margin-left: 250px;
+}
+.bottomTextsRight a{
+    color: white;
+}
+.symbol2{
+    color: rgb(209, 209, 255);
+    margin-left: 25px;
+}
